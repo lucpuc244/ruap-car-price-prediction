@@ -23,6 +23,7 @@ Web aplikacija dostupna je na sljedećoj poveznici:
 https://car-price-app-wuyibyihgfyht5tzy7dood.streamlit.app/
 
 
+---
 
 ## 🧠 Korištene značajke
 
