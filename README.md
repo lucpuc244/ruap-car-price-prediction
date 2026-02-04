@@ -17,7 +17,7 @@ Sustav korisniku omogućuje unos specifikacija vozila i dobivanje procijenjene t
 
 ---
 
-## 🌐 Online aplikacija
+## 🌐 Online aplikacija 
 
 Web aplikacija dostupna je na sljedećoj poveznici:  
 https://car-price-app-wuyibyihgfyht5tzy7dood.streamlit.app/
@@ -94,6 +94,6 @@ Podaci se generiraju web scrapingom ili koriste lokalno.
 
 ---
 
-## 👨‍🎓 Autor :3
+## 👨‍🎓 Autor 
 
-Projekt izrađen u edukativne svrhe u sklopu kolegija RUAP.
+Projekt izrađen u edukativne svrhe u sklopu kolegija RUAP. :3
