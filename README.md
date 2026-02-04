@@ -44,7 +44,11 @@ https://car-price-app-wuyibyihgfyht5tzy7dood.streamlit.app/
 - Scikit-learn  
 - Flask  
 - Azure Machine Learning  
-- GitHub  
+- GitHub
+- Streamlit
+
+  
+ 
 
 ---
 
