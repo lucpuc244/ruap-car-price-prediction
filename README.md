@@ -17,6 +17,13 @@ Sustav korisniku omogućuje unos specifikacija vozila i dobivanje procijenjene t
 
 ---
 
+## 🌐 Online aplikacija
+
+Web aplikacija dostupna je na sljedećoj poveznici:  
+https://car-price-app-wuyibyihgfyht5tzy7dood.streamlit.app/
+
+--
+
 ## 🧠 Korištene značajke
 
 - Marka vozila  
